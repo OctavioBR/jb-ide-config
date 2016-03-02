@@ -44,12 +44,25 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="JumpToLastWindow" />
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="ParameterInfo" />
   <action id="RecentChangedFiles" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ScrollFromSource">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
@@ -57,6 +70,7 @@
     <keyboard-shortcut first-keystroke="alt j" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="ShowBookmarks" />
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
@@ -82,6 +96,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="TypeHierarchy" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
