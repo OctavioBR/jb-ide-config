@@ -5,6 +5,9 @@
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
   </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="v" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
