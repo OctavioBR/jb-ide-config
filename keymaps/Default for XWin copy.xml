@@ -40,6 +40,9 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -66,6 +69,9 @@
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="ParameterInfo" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
