@@ -53,6 +53,9 @@
           <option name="SHOW_INDENT_LINES" value="true" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
 </application>
