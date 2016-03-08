@@ -23,6 +23,9 @@
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ChangesView.Revert">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -38,7 +41,9 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CompareTwoFiles" />
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="d" />
+  </action>
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl q" />
