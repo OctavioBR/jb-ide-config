@@ -69,4 +69,7 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="0.12.7" last-modified="1439487417000" />
   </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
 </application>
