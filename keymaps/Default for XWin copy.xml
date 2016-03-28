@@ -108,7 +108,9 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
-  <action id="ParameterInfo" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
