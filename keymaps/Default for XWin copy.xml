@@ -2,9 +2,7 @@
   <action id="ActivateChangesToolWindow">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
-  <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
-  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="v" />
   </action>
@@ -152,6 +150,9 @@
   </action>
   <action id="ToggleBookmark" />
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="f" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
