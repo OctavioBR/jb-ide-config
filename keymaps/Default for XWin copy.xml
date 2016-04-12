@@ -106,6 +106,10 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="n" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
