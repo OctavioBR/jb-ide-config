@@ -8,7 +8,7 @@
       <option name="NUM_POSTFIXES" value="" />
       <option name="HAS_BRACES" value="true" />
     </options>
-    <keywords ignore_case="false" />
+    <keywords keywords=".PHONY;endif;ifeq" ignore_case="false" />
   </highlighting>
   <extensionMap>
     <mapping pattern="Makefile" />
