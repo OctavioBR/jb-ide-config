@@ -69,7 +69,7 @@
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.12.7" last-modified="1439487417000" />
+    <node-interpreter path="/usr/local/bin/node" version="6.4.0" last-modified="1473276614000" />
   </component>
   <component name="SvgViewer.Settings">
     <option name="PLUGIN_ENABLED" value="true" />

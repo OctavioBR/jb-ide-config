@@ -18,9 +18,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
-  <action id="AddToFavoritesPopup">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="a" />
-  </action>
+  <action id="AddToFavoritesPopup" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
