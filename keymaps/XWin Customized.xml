@@ -111,8 +111,10 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="NewScratchFile">
-    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="n" />
   </action>
   <action id="OptimizeImports" />
