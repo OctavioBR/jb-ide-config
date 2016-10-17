@@ -1,6 +1,7 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer2" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="Apple JS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="Apple JS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10" value="JavaScript" />
@@ -10,6 +11,8 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="Apple JS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="Apple JS" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="HTML" />
